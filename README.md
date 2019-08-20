@@ -10,8 +10,8 @@ There is no IOS version now.
 
 ## Screenshots
 
-<img align="left" width="320" height="640" src="__assets__AuthPage.png">
-<img align="right" width="320" height="640" src="__assets__ClassroomPage.png">
+<img align="left" width="320" height="640" src="__assets__/AuthPage.png">
+<img align="right" width="320" height="640" src="__assets__/ClassroomPage.png">
 <p align="center">
-   <img align="center" width="320" height="640" src="__assets__profilePage.png">
+   <img align="center" width="320" height="640" src="__assets__/profilePage.png">
 </p>
